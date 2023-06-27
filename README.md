@@ -54,9 +54,9 @@ Omit --global to set the identity only in this repository.
 
 fatal: unable to auto-detect email address (got 'user@DESKTOP-HSBDQCC.(none)')
 
-C:\Users\user\basic1>git config --global user.email "money683@naver.com"
+C:\Users\user\basic1>git config --global user.email "*****"
 
-C:\Users\user\basic1>git config --global user.name "Ilhwan123"
+C:\Users\user\basic1>git config --global user.name "*****"
 
 C:\Users\user\basic1>git commit -m "로그인 개발"
 [main 5f3c6b8] 로그인 개발
